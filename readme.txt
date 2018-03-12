@@ -20,4 +20,3 @@ Manufacturing Companies: They can register using only their names. All the manuf
 
 
 Volunteers: They register using their name,city and other basic details. They can choose a city (not necessarily where they live), the school they want to visit, and can schedule an appointment using the calendar built-in the dashboard, they can view the student list in all the schools of various cities, they can view their schedules too. They can visit the schools to either educate the students/parents or to distribute the supplies. 
-[a]Updated on 11/03- this would be useful in making a PPT
